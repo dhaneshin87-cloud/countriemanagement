@@ -23,6 +23,8 @@ const Home = () => {
 
   const navigate = useNavigate(); 
 
+
+  
   useEffect(() => {
     fetch(process.env.REACT_APP_COUNTRIES_API)
       .then((res) => res.json())
