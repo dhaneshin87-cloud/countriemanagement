@@ -1,0 +1,21 @@
+.login-card {
+    width: 100%;
+    max-width: 380px;
+    border-radius: 12px;
+    background: #fff;
+  }
+  
+  .social-btn {
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .login-illustration {
+    max-width: 70%;
+    height: auto;
+  }
+  
